@@ -40,7 +40,7 @@ A simple simulation of an autonomous agricultural vehicle built with Python and 
 
 1.  **Execute the script from your terminal:**
     ```bash
-    python your_script_name.py
+    python app.py
     ```
 
     This will display the animation in a window and save a GIF file named `agro_car_simulation_en.gif` in the project folder.
